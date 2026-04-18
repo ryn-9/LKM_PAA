@@ -58,7 +58,9 @@ Cara Menjalankan Project
 
 1. Clone repository:
 
+   ```
    git clone https://github.com/ryn-9/LKM_PAA.git
+   ```
 
 2. Import database:
 
@@ -81,7 +83,9 @@ Cara Menjalankan Project
 
 5. Akses Swagger:
 
+   ```
    https://localhost:xxxx/swagger
+   ```
 
 ---
 
